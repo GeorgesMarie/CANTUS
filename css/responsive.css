@@ -73,6 +73,24 @@
   .copyright {
     font-size: 10px;
   }
+  /* -------------------------- */
+  .footer-link, .copyright {
+    font-size: 10px;
+  }
+  /* -------------------------- */
+  .salaud {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .song {
+    width: 100%;
+  }
+  .instagram {
+    width: 100%;
+  }
+  .inst {
+    justify-content: space-around;
+  }
 }
 
 /* TABLETTES */
@@ -104,5 +122,15 @@
   /* ------------------------- */
   .container {
     width: 100%;
+  }
+  /* ------------------------- */
+  .song {
+    width: 100%;
+  }
+  .instagram {
+    width: 100%;
+  }
+  .inst {
+    justify-content: space-around;
   }
 }

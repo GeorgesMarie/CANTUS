@@ -195,19 +195,30 @@ h5 {
 /* ---------- /FOUNDER ---------- */
 
 
-
-
-
-
 /* ---------- POPULAR & INSTAGRAM  ---------- */
+.salaud {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.song {
+  width: 60%;
+}
+.instagram {
+  width: 35%;
+}
 .inst {
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
-.inst div {
-  margin-right: 4px;
+.inst img {
+  margin-bottom: 15px;
 }
+
 /* ---------- /POPULAR & INSTAGRAM  ---------- */
 
 

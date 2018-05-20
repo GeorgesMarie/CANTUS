@@ -92,6 +92,15 @@
   .inst {
     justify-content: space-around;
   }
+  /* ---------------------- */
+  h1 {
+    font-size: 18px;
+    white-space: normal;
+    text-align: center;
+  }
+  .title-2 {
+    left: 0;
+  }
 }
 
 /* TABLETTES */
@@ -133,5 +142,13 @@
   }
   .inst {
     justify-content: space-around;
+  }
+  /* ------------------------- */
+  h1 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .title-2 {
+    left: 40%;
   }
 }

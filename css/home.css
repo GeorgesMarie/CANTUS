@@ -26,3 +26,18 @@ h1 span {
   color: #fff;
   font-size: 38px;
 }
+input[type="search"] {
+  border-bottom: 3px solid !important;
+}
+input[type="search"]:focus {
+  color: #fff !important;
+  border-color: #df001f !important;
+  background-color: transparent !important;
+}
+.nav-wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+/* ------------- OUR TRENDING ------------- */
+
+/* ------------- OUR TRENDING ------------- */
